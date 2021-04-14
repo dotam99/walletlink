@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "bind-decorator": "^1.0.11",
-    "bn.js": "^5.1.1",
+    "bn.js": "^5.2.0",
     "clsx": "^1.1.0",
     "preact": "^10.5.9",
     "rxjs": "^6.6.3",
